@@ -24,7 +24,7 @@
         </configuration>
       </plugin>
     </plugins>
-    <final-name>hello-app</final-name>
+    
   </build>
 
 </project>
